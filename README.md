@@ -84,4 +84,9 @@ Implement advanced search (binary search, hashing)
 Add authentication and role-based access
 
 ## 📸 Demo
+<img width="386" height="392" alt="WhatsApp Image 2026-05-02 at 10 17 43" src="https://github.com/user-attachments/assets/bc6b6f8b-e352-4497-91cd-54e68e149368" />
+<img width="388" height="241" alt="WhatsApp Image 2026-05-02 at 10 14 51" src="https://github.com/user-attachments/assets/5b6cd02d-968d-4faa-ad0d-31712381b607" />
+<img width="1366" height="723" alt="WhatsApp Image 2026-05-02 at 10 17 18" src="https://github.com/user-attachments/assets/9313b639-2073-4963-9dc7-be66f41d0605" />
+
+
 
