@@ -1,25 +1,25 @@
-## Student Record Management System (DSA Project)
+# Student Record Management System (DSA Project)
 
 A Data Structures-based Student Record Management System designed to efficiently store, manage, and process student data using fundamental DSA concepts. The system enables fast operations on records while maintaining scalability and structured data handling.
 
-## 📌 Project Overview
+# 📌 Project Overview
 
 The system is designed in key functional stages:
 
-# 🔹 1. Data Management
+## 🔹 1. Data Management
 Stores student records dynamically
 Supports structured storage using Linked Lists 
 Maintains data such as name, roll number, marks, etc.
-# 🔹 2. Data Processing & Operations
+##🔹 2. Data Processing & Operations
 Performs CRUD operations (Create, Read, Update, Delete)
 Enables searching and filtering of student records
 Supports sorting based on marks or other attributes
-# 💡 Key Features
+## 💡 Key Features
  📂 Efficient data storage using Linked Lists 
  🔍 Fast search functionality for student records
  📊 Sorting using Merge Sort / Quick Sort
  👥 Supports multiple student records
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 Language: Java 
 Concepts: Data Structures & Algorithms, OOP
 Data Structures Used:
