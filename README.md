@@ -83,3 +83,5 @@ Build GUI using Java Swing / Web interface
 Implement advanced search (binary search, hashing)
 Add authentication and role-based access
 
+## 📸 Demo
+
