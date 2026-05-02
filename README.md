@@ -12,7 +12,8 @@ Stores student records dynamically
 Supports structured storage using Linked Lists 
 
 Maintains data such as name, roll number, marks, etc.
-##🔹 2. Data Processing & Operations
+
+## 🔹 2. Data Processing & Operations
 Performs CRUD operations (Create, Read, Update, Delete)
 
 Enables searching and filtering of student records
